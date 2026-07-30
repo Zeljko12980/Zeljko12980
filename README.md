@@ -1,72 +1,130 @@
-# Hi there 👋 I'm Željko Ikanović
+<div align="center">
 
-### Software Engineer | .NET Backend Developer
+# Hi, I'm Željko Ikanović 👋
 
-I'm a Software Engineer passionate about building scalable backend systems, enterprise applications, and distributed architectures using modern .NET technologies.
+### Software Engineer • .NET Backend Developer
 
-- 💻 Software Engineer
-- 🚀 Specialized in Backend Development with .NET
-- 🎓 Faculty of Electrical Engineering, University of East Sarajevo
-- 🏆 Scholarship Recipient (2022–2023, 2024–2025)
-- 🥇 Hackathon Winner & Competitive Programmer
-- 🌱 Always learning new technologies and software architecture principles
+Building scalable backend systems with modern .NET technologies.
+
+<p>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Zeljko12980&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-## 🚀 Tech Stack
+# 👨‍💻 About Me
+
+```csharp
+public class Zeljko
+{
+    public string Role => "Software Engineer";
+
+    public string[] Languages =>
+    [
+        "C#",
+        "TypeScript",
+        "SQL"
+    ];
+
+    public string[] Backend =>
+    [
+        ".NET",
+        "ASP.NET Core",
+        "Web API",
+        "Entity Framework Core",
+        "Dapper",
+        "MediatR"
+    ];
+
+    public string[] Architecture =>
+    [
+        "Clean Architecture",
+        "CQRS",
+        "DDD",
+        "Microservices"
+    ];
+
+    public string[] Databases =>
+    [
+        "PostgreSQL",
+        "SQL Server"
+    ];
+
+    public string[] DevOps =>
+    [
+        "Docker",
+        "RabbitMQ",
+        "Git",
+        "GitHub Actions"
+    ];
+}
+```
+
+---
+
+# 🚀 Technologies
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,ts,js,python"/>
+</p>
 
 ### Backend
 
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge)
-![Dapper](https://img.shields.io/badge/Dapper-0D1117?style=for-the-badge)
-![MediatR](https://img.shields.io/badge/MediatR-00599C?style=for-the-badge)
-
-### Architecture
-
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
-![CQRS](https://img.shields.io/badge/CQRS-00599C?style=for-the-badge)
-![DDD](https://img.shields.io/badge/Domain_Driven_Design-0A66C2?style=for-the-badge)
-![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Messaging & DevOps
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=aspnet"/>
+</p>
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css"/>
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman"/>
+</p>
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements
 
-- 🥇 Winner — Globalsoft Hackathon
-- 🥈 Second Place — SuperNova Hackathon
-- 🥈 Second Place — SSST MedRecon Hackathon
-- 🎓 Scholarship Recipient (2022–2023, 2024–2025)
+🥇 Globalsoft Hackathon Winner
+
+🥈 SuperNova Hackathon – Second Place
+
+🥈 SSST MedRecon Hackathon – Second Place
+
+🎓 Scholarship Recipient (2022–2023, 2024–2025)
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Project
 
-### 🧠 NeuroVision.AI
-AI-powered healthcare platform built with a microservices architecture for brain tumor detection and healthcare management.
+## 🧠 NeuroVision.AI
 
-**Tech Stack**
+AI-powered healthcare platform built with a distributed microservices architecture.
+
+### Built With
 
 - ASP.NET Core
 - Clean Architecture
@@ -77,25 +135,51 @@ AI-powered healthcare platform built with a microservices architecture for brain
 - PostgreSQL
 - Docker
 - React
-- AI Integration
 
 ---
 
-## 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeljko12980&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeljko12980&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Zeljko12980&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeljko12980&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
+
 <img src="https://streak-stats.demolab.com?user=Zeljko12980&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-> *"Code is not just about solving problems—it's about building scalable solutions that make an impact."*
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeljko12980&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Zeljko12980/Zeljko12980/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 "Clean code always looks like it was written by someone who cares."
+
+</div>
