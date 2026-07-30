@@ -100,7 +100,7 @@ AI-powered healthcare platform built with a microservices architecture for brain
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/željko-ikanović-065275321)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([www.linkedin.com/in/željko-ikanović-065275321](https://www.linkedin.com/in/%C5%BEeljko-ikanovi%C4%87-065275321/?skipRedirect=true))
 
 ---
 
